@@ -4,7 +4,11 @@ There are currently no support for runes.
 
 ## Installation
 ```
+# Install package
 $ yarn add run-source
+
+# Update dependencies
+$ yarn upgrade
 ```
 
 ## Usage
