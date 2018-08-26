@@ -1,0 +1,4 @@
+#! /usr/bin/env node
+
+var runSource = require('runSource');
+runSource(__dirname + process.argv[2] || __dirname + config.get('main'));
