@@ -24,5 +24,13 @@ There are only 2 options currently:
 - `source-chapter`: 1-4
 - `main`: default path to run
 
+### Custom File Extensions
+If you are using Visual Studio Code, add the following into your user settings to enable syntax highlighting for *.source files:
+```
+"files.associations": {
+    "*.source": "javascript"
+}
+```
+
 ## Todo
 - Add support for runes
