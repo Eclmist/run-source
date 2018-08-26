@@ -1,5 +1,6 @@
 const js_slang = require('js-slang');
 const fs = require('fs');
+process.env["NODE_CONFIG_DIR"] = __dirname + "/config/";
 const config = require('config');
 
 exports.runSource = runSource;
@@ -23,5 +24,3 @@ function runSource(path) {
         console.log(res.value);
     });
 }
-
-runSource(process.argv[2] || config.get('main'));
