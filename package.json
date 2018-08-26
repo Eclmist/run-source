@@ -10,7 +10,7 @@
     "CS1101S",
     "NUS"
   ],
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "An unofficial open source package to run Source code from Source Academy (CS1101S)",
   "main": "run-source.js",
   "files": [
@@ -23,7 +23,7 @@
   },
   "scripts": {
     "run-source": "node run-source.js",
-    "postinstall": "copy .\\node_modules\\run-source\\config ."
+    "postinstall": "copy .\\config ..\\..\\"
   },
   "bugs": "https://github.com/Eclmist/run-source/issues",
   "repository": {
