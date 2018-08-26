@@ -1,0 +1,30 @@
+{
+  "name": "run-source",
+  "dependencies": {
+    "js-slang": "^0.1.6",
+    "config": "^2.0.1"
+  },
+  "keywords": [
+    "Source",
+    "Source Academy",
+    "CS1101S",
+    "NUS",
+    "School of Computing"
+  ],
+  "version": "0.1.0",
+  "description": "An unofficial open source yarn package to run Source code from Source Academy (CS1101S)",
+  "main": "run-source.js",
+  "bin": {
+    "run-source": "bin/run-source"
+  },
+  "scripts": {
+    "run-source": "node run-source.js"
+  },
+  "bugs": "https://github.com/Eclmist/run-source/issues",
+  "repository": {
+    "url": "https://github.com/Eclmist/run-source",
+    "type": "git"
+  },
+  "author": "Samuel Ng (www.samuelvanallen.com)",
+  "license": "MIT"
+}
