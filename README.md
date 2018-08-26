@@ -1,5 +1,5 @@
 # run-source
-An unofficial open source package to run Source code from Source Academy (CS1101S) outside of the Source Academy Playground.
+An unofficial wrapper around the undocumented `js-slang` package to run Source code from Source Academy (CS1101S) outside of the Source Academy Playground. Useful if you want to run Source code offline or use your own editors.
 There are currently no support for runes.
 
 ## Installation
@@ -34,3 +34,4 @@ If you are using Visual Studio Code, add the following into your user settings t
 
 ## Todo
 - Add support for runes
+- Run code directly from the CLI
