@@ -11,7 +11,7 @@
     "NUS",
     "School of Computing"
   ],
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "An unofficial open source yarn package to run Source code from Source Academy (CS1101S)",
   "main": "run-source.js",
   "bin": {
