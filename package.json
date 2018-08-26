@@ -8,8 +8,7 @@
     "Source",
     "Source Academy",
     "CS1101S",
-    "NUS",
-    "School of Computing"
+    "NUS"
   ],
   "version": "0.3.3",
   "description": "An unofficial open source package to run Source code from Source Academy (CS1101S)",
