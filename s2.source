@@ -1,0 +1,15 @@
+function factorial_i(n, i) {
+    return i === 1
+        ? n
+        : factorial_i(n * (i - 1), i - 1);
+}
+
+function factorial_i2(n) {
+    return factorial_i(n, n);
+}
+
+display(factorial_i2(12));
+display(10);
+display('1231');
+
+show('sdf');
