@@ -14,7 +14,7 @@
   "description": "An unofficial open source package to run Source code from Source Academy (CS1101S)",
   "main": "run-source.js",
   "bin": {
-    "run-source": "bin/run-source"
+    "run-source": "./bin/run-source.js"
   },
   "scripts": {
     "run-source": "node run-source.js"
