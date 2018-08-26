@@ -10,7 +10,7 @@
     "CS1101S",
     "NUS"
   ],
-  "version": "0.3.6",
+  "version": "0.3.7",
   "description": "An unofficial open source package to run Source code from Source Academy (CS1101S)",
   "main": "run-source.js",
   "files": [
