@@ -3,7 +3,6 @@ An unofficial open source package to run Source code from Source Academy (CS1101
 There are currently no support for runes.
 
 ## Installation
-### Yarn:
 ```
 $ yarn add run-source
 ```
