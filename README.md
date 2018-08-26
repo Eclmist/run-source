@@ -3,11 +3,12 @@ An unofficial wrapper around the undocumented `js-slang` package to run Source c
 There are currently no support for runes.
 
 ## Installation
+#### 1) Install package
 ```
-# Install package
 $ yarn add run-source
-
-# Update dependencies
+```
+#### 2) Update dependencies
+```
 $ yarn upgrade
 ```
 
